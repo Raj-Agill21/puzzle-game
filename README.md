@@ -35,20 +35,28 @@ Install Pygame using pip if you haven't already: pip install pygame
 
 ### 2.Download and Organize Images:
 Make sure you have the image files (level1_image1.jpg, level1_image2.jpg, etc.) in the same directory as your Python script.
+
 Ensure the images are named correctly and are accessible to the script.
 
 ### 3.Run the Script:
 Open your command line or terminal.
+
 Navigate to the directory where your Python script (main.py) is located.
+
 Run the script using Python: python main.py
 
 ### 4.Gameplay:
 The game will start by displaying all the images for each level.
+
 Click on an image to select it and proceed to play that level.
+
 Complete each level by solving the sliding puzzle.
+
 After completing a level, a message will display indicating the completion of the level.
+
 Once all levels are completed, a final congratulations message will appear.
 
 ### 5.Interaction:
 Use the mouse to click and drag tiles in the puzzle.
+
 Follow on-screen instructions and prompts for level selection and game progression.
