@@ -30,6 +30,7 @@ Complete the Puzzle: Keep placing the pieces until the image is complete and mat
 
 ### 1.Setup Python and Pygame:
 Ensure you have Python installed on your computer. You can download it from python.org.
+
 Install Pygame using pip if you haven't already: pip install pygame
 
 ### 2.Download and Organize Images:
